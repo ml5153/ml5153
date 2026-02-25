@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 안드로이드 개발자 박영수입니다!
 
-<img src="https://render.gitanimals.re.ma/proposals/본인의_GitHub_ID" width="600" height="auto" />
+<img src="https://render.gitanimals.re.ma/proposals/ml5153" width="600" height="auto" />
 
 ---
 
@@ -17,9 +17,7 @@
 ### 🚀 About Me & Goals
 
 - 📱 **6년차 Android Developer** | 안정적인 앱 아키텍처와 사용자 경험에 관심이 많습니다.
-- 🎓 **Continuous Learning** | 현재 한성대학교 AI학과에서 인공지능 분야를 깊게 공부 중입니다.
-- 📜 **Certifications** | 정보처리기사 취득 완료! 현재 SQLD 및 어학 성적 목표 달성 중입니다.
-- 💻 **Bootcamp** | 백엔드 역량 강화를 위해 매일 9to9 몰입하고 있습니다.
+- 백엔드 역량 강화를 위해 매일 9to9 몰입하고 있습니다.
 
 ---
 
