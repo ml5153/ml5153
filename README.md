@@ -2,7 +2,9 @@
 
 # 👋 안녕하세요, 안드로이드 개발자 박영수입니다!
 
-<img src="https://render.gitanimals.re.ma/proposals/ml5153" width="600" height="auto" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ml5153"/>
+</a>
 
 ---
 
