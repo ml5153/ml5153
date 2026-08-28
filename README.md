@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 안드로이드 개발자 박영수입니다!
+# 👋 안녕하세요, 프로덕트 엔지니어 박영수입니다!
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/ml5153"/>
